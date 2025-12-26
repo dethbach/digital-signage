@@ -1,3 +1,7 @@
+**Requirements**
+* Python must be installed on your computer.
+* After Python is installed, the application can be started by double-clicking start-signage.
+
 **Folder Structure**
 Inside the media directory, you will find:
 * top/ folder
