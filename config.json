@@ -1,0 +1,9 @@
+{
+  "marquee": {
+    "speed": 25,
+    "enabled": true
+  },
+  "bottom": {
+    "imageDuration": 5000
+  }
+}
